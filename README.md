@@ -3,7 +3,7 @@ The implementation architecture of a comprehensive Harness engineering system
 # Standard-Harness工程架构设计
 
 # 一、总体架构：
-<img width="1852" height="712" alt="whiteboard_exported_image (2)" src="https://github.com/user-attachments/assets/71f50b74-7c5d-4be5-892b-9acfc37656f5" />
+<img width="2371" height="1494" alt="whiteboard_exported_image (8)" src="https://github.com/user-attachments/assets/b73f4f57-48d9-41f9-8112-1b5eef9e1077" />
 
 ## 设计目标：
 
