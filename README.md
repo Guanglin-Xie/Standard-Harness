@@ -1,5 +1,3 @@
-# Standard-Harness
-The implementation architecture of a comprehensive Harness engineering system
 # Standard-Harness工程架构设计
 
 # 一、总体架构：
